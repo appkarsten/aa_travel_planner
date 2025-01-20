@@ -1,5 +1,5 @@
-import 'package:aa_travel_planner/Favorites/widgets/favorite_card.dart';
-import 'package:aa_travel_planner/Favorites/repositores/favorites_repository.dart';
+import 'package:aa_travel_planner/features/favorites/widgets/favorite_card.dart';
+import 'package:aa_travel_planner/features/favorites/repositores/favorites_repository.dart';
 import 'package:aa_travel_planner/main.dart';
 import 'package:flutter/material.dart';
 
